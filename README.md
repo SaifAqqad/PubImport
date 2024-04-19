@@ -1,2 +1,2 @@
 # PubImport
-Easily import PublishSettings files
+Easily import `PublishSettings` files from the terminal.
