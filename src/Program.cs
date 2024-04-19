@@ -14,6 +14,6 @@ var publishFileArg = new Argument<FileInfo?>();
 importCommand.AddArgument(publishFileArg);
 importCommand.AddOption(projectOption);
 
-importCommand.SetHandler(((publishFile, projectFile) => ),publishFileArg, projectOption);
+importCommand.SetHandler(((publishFile, projectFile) => null!),publishFileArg, projectOption);
 
 return await importCommand.InvokeAsync(args);

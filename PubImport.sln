@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubImport", "PubImport.csproj", "{1A12E2FF-F40C-488E-BA56-73FD8A03D986}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubImport", "src/PubImport.csproj", "{1A12E2FF-F40C-488E-BA56-73FD8A03D986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
